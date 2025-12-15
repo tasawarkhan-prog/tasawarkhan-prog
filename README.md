@@ -2,9 +2,9 @@
 
 ### 🤖 AI & ML Engineer | Lecturer | Researcher
 
-[cite_start]I am a Machine Learning specialist with an **MS in Computer Science** (AI Specialization)[cite: 38]. [cite_start]My passion lies in building trustworthy AI systems, specifically in **Explainable AI (XAI)**, **Computer Vision**, and **NLP** for healthcare applications[cite: 11, 17].
+I am a Machine Learning specialist with an **MS in Computer Science** (AI Specialization). My passion lies in building trustworthy AI systems, specifically in **Explainable AI (XAI)**, **Computer Vision**, and **NLP** for healthcare applications.
 
-[cite_start]Currently, I am a **Lecturer in AI** at Shifa Tameer-e-Millat University [cite: 12] and actively contributing to open-source ML projects.
+Currently, I am a **Lecturer in AI** at Shifa Tameer-e-Millat University and actively contributing to open-source ML projects.
 
 ---
 
@@ -20,11 +20,11 @@
 
 ### 🏆 Work & Experience
 
-* [cite_start]👨‍🏫 **Junior Lecturer (AI)** @ Shifa Tameer-e-Millat University (2025 - Present) [cite: 14]
-* [cite_start]💻 **Machine Learning Intern** @ Elevvo Pathways (2025) [cite: 18, 20]
+* 👨‍🏫 **Junior Lecturer (AI)** @ Shifa Tameer-e-Millat University (2025 - Present).
+* 💻 **Machine Learning Intern** @ Elevvo Pathways (2025).
     * *Delivered 8 end-to-end ML projects including Traffic Sign Recognition and Movie Recommendation Engines.*
-* [cite_start]🎓 **MS Computer Science** @ COMSATS University Islamabad (CGPA 3.68/4.00) [cite: 38, 42]
-    * [cite_start]*Thesis: "Rule-Based Interpretability of Deep Neural Network Models for Diabetic Patient Analysis"* [cite: 42]
+* [🎓 **MS Computer Science** @ COMSATS University Islamabad (CGPA 3.68/4.00).
+    * *Thesis: "Rule-Based Interpretability of Deep Neural Network Models for Diabetic Patient Analysis"*
 
 ---
 
@@ -32,5 +32,6 @@
 ![Tasawar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tasawarkhan-prog&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me
-* [cite_start]**LinkedIn:** [Tasawar Abbas Khan](https://www.linkedin.com/in/tasawar-abbas-khan-niazi-b87328314) [cite: 8]
-* [cite_start]**Email:** khantasawar68@gmail.com [cite: 5]
+* **LinkedIn:** [Tasawar Abbas Khan](https://www.linkedin.com/in/tasawar-abbas-khan-niazi-b87328314)
+* **Email:** khantasawar68@gmail.com
+* **WhatsAPP me #:** +923100672008
